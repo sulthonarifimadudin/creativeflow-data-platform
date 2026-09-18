@@ -579,16 +579,16 @@ Through this project, the following Data Engineering concepts are implemented:
 
 # 👤 Author
 
-**Muchlis Aryomukti**
+**Sulthon Arif Imadudin**
 
 AI Engineer | Data Engineer Enthusiast
 
 GitHub:
-https://github.com/muchlisam17
+https://github.com/sulthonarifimadudin
 
 
 LinkedIn:
-https://linkedin.com/in/muchlisam
+https://www.linkedin.com/in/sulthon-arif-imadudin-3a2919263/
 
 
 ---
