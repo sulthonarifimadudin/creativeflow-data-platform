@@ -1,0 +1,6 @@
+package_id,package_name,category,price,duration_hour
+PK001,Wedding Premium,Wedding,8000000,10
+PK002,Pre Wedding,Wedding,3500000,5
+PK003,Product Catalog,Commercial,2500000,4
+PK004,Event Documentation,Event,5000000,8
+PK005,Company Profile,Commercial,7000000,12

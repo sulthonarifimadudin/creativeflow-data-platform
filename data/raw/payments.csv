@@ -1,0 +1,7 @@
+payment_id,booking_id,payment_date,amount,payment_method,status
+PAY001,BOOK001,2026-01-15,4000000,Transfer,Paid
+PAY002,BOOK001,2026-03-18,4000000,Transfer,Paid
+PAY003,BOOK002,2026-01-20,2500000,Transfer,Paid
+PAY004,BOOK004,2026-02-20,5000000,Transfer,Paid
+PAY005,BOOK005,2026-03-05,3500000,Cash,Paid
+PAY006,BOOK006,2026-03-10,2500000,Transfer,Paid

@@ -1,0 +1,6 @@
+client_id,name,email,phone,city,created_date
+CLI001,Rizky Maulana,rizky@gmail.com,081234567890,Bandung,2026-01-05
+CLI002,Amanda Putri,amanda@gmail.com,082345678901,Jakarta,2026-01-10
+CLI003,Fajar Ramadhan,fajar@gmail.com,083456789012,Bandung,2026-02-01
+CLI004,Nadia Permata,nadia@gmail.com,084567890123,Cimahi,2026-02-15
+CLI005,Dimas Saputra,dimas@gmail.com,085678901234,Bandung,2026-03-01

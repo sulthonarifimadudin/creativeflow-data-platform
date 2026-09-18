@@ -1,0 +1,7 @@
+project_id,booking_id,shooting_status,editing_status,delivery_status
+PRJ001,BOOK001,Done,Done,Delivered
+PRJ002,BOOK002,Done,Done,Delivered
+PRJ003,BOOK003,Scheduled,Not Started,Not Delivered
+PRJ004,BOOK004,Done,Done,Delivered
+PRJ005,BOOK005,Scheduled,Not Started,Not Delivered
+PRJ006,BOOK006,Scheduled,Not Started,Not Delivered
