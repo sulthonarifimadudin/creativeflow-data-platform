@@ -8,7 +8,7 @@
 A complete Data Engineering pipeline that transforms raw business data into a structured Data Warehouse and interactive Business Intelligence dashboard.
 </p>
 
-<img src="assets/creativeflow-dashboard.png" width="900"/>
+<img src="dashboard/creativeflow-dashboard.png" width="900"/>
 
 <br/>
 
@@ -81,7 +81,9 @@ The main objectives of this project are:
 
 # 🏗️ Data Architecture
 
+<img src="dashboard/architecture.png" width="900"/>
 
+The platform follows an end-to-end Data Engineering architecture:
 ```
                  Raw Business Data
                        |
@@ -425,8 +427,7 @@ Implemented analytics:
 Dashboard Preview:
 
 
-<img src="assets/creativeflow-dashboard.png" width="900"/>
-
+<img src="dashboard/creativeflow-dashboard.png" width="900"/>
 
 ---
 
